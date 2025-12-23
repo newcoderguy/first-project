@@ -16,4 +16,6 @@ This is my first project that is i am designing and building by myself. It took 
 * 1 - 4 slots AA battery case 
 
 ## schematic V1
-<img scr="C:\Users\HlengiweN\Downloads\Sehematics\Schematic_LED-CUBE_V1.png" width="230" height="120"/>
+<img width="585" height="590" alt="Schematic_LED-CUBE_V1" src="https://github.com/user-attachments/assets/cc114e80-0307-4d57-8336-487d8e1482f5" />
+
+first design is still a bit rough around the edges. But i tried :) 
